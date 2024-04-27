@@ -1,4 +1,4 @@
-[capa repositório workshop PrograMaria Entre PrograMarias](https://www.anamaria.dev.br/workshop-programaria/entre-programarias.png)
+![capa repositório workshop PrograMaria Entre PrograMarias](https://www.anamaria.dev.br/workshop-programaria/entre-programarias.png)
 
 # Workshop PrograMaria
 
