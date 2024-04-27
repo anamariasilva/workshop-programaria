@@ -2,4 +2,7 @@
 
 # Workshop PrograMaria
 
-Workshop PrograMaria | Entre PrograMarias com o tema "Introdução ao VS Code: customizando a ferramenta para sua produtividade como pessoa desenvolvedora"
+Workshop PrograMaria para a comunidade Entre PrograMarias com o tema "Introdução ao VS Code: customizando a ferramenta para sua produtividade como pessoa desenvolvedora"
+
+## Pré-encontro: 
+VS Code instalado (https://code.visualstudio.com/Download)
