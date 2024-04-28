@@ -1,6 +1,8 @@
 ![capa repositório workshop PrograMaria Entre PrograMarias](https://www.anamaria.dev.br/workshop-programaria/images/entre-programarias-original.png)
 
-# Workshop PrograMaria
+# Workshop Entre PrograMarias
+
+`Hello World, PrograMaria!`
 
 Workshop PrograMaria para a comunidade Entre PrograMarias com o tema "Introdução ao VS Code: customizando a ferramenta para sua produtividade como pessoa desenvolvedora".
 
@@ -16,7 +18,7 @@ Visual Studio Code instalado (https://code.visualstudio.com/Download)
 - Referências
 
 ## Repositório GitHub
-Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.com/anamariasilva/workshop-programaria) e utilize as hashtags #programaria e #workshop-programaria em seu repositório.
+Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.com/anamariasilva/workshop-programaria) ou fork e utilize as hashtags #programaria e #workshop-programaria em seu repositório.
 
 ## Exercício prático
 - Configure o idioma de sua preferência (instale uma extensão)
@@ -32,6 +34,7 @@ Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.c
 :rocket: :rocket: :rocket:
 - Conecte o Git
 - Disponibilize no GitHub
+- Utilize a versão web do VS Code
 
 ## Referências
 - [Visual Studio Code Docs](https://code.visualstudio.com/docs)
