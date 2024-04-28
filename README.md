@@ -20,22 +20,35 @@ Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.c
 
 ## Exercício prático
 - Crie a estrutura do projeto web
-- Configure modo claro ou escuro nas preferências
-- Instale um tema de sua preferência que altere o esquema de cores
+- Configure modo claro ou escuro de acordo com sua preferência
+- Instale um tema que altere o esquema de cores
 - Instale uma extensão de formatação
 - Instale uma extensão para estilizar ícones da estrutura do projeto
 - Instale uma extensão que auxilie o uso da linguagem escolhida para o seu projeto (HTML, CSS, JavaScript, PHP, Python...)
-- Crie um atalho personalizado
+- Refaça o código do projeto utilizando emmet
+- salve as configurações do seu projeto
+
+:rocket: :rocket: :rocket
 - Conecte o Git
 - Disponibilize no GitHub
 
 ## Referências
-- [Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- [Keyboard shortcuts for Windows em PDF](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - VS for Web [vscode.dev/](https://vscode.dev/)
 - [Emmet](https://code.visualstudio.com/docs/editor/emmet)
 - [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/VSCode)
 - [VS Code Themes](https://vscodethemes.com/)
 - [Saiba mais sobre o VS Code Day 2024](https://code.visualstudio.com/blogs/2024/04/15/vscode-day)
+
+## Extensões utilizadas
+- [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
+- [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [vscode-icons](https://marketplace.visualstudio.com/items?itemName=vscode-icons-team.vscode-icons)
+- [Material icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [Markdown Theme Kit](https://marketplace.visualstudio.com/items?itemName=ms-vscode.Theme-MarkdownKit)
+- [freeCodeCamp Dark Theme](https://marketplace.visualstudio.com/items?itemName=freeCodeCamp.freecodecamp-dark-vscode-theme)
+- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 ## Repositórios Recomendados
 - [Repositório Front-end Developers](https://github.com/anamariasilva/front-end)
