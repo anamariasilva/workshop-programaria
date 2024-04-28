@@ -36,6 +36,11 @@ Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.c
 - [Emmet](https://code.visualstudio.com/docs/editor/emmet)
 - [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/VSCode)
 
+## Salve nos Favorites
+- [Repositório Front-end Developers](https://github.com/anamariasilva/front-end)
+- [Repositório Mulheres na Tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia)
+- [Lista Repositório Recomendados](https://github.com/stars/anamariasilva/lists/reposit%C3%B3rios-recomendados)
+
 ## Contatos
 ### Ana Maria | www.anamaria.dev.br
 #### Criadora de conteúdo @ana.tech.dev | Embaixadora PrograMaria
