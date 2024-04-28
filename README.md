@@ -30,11 +30,12 @@ Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.c
 - Disponibilize no GitHub
 
 ## Referências
-- [Saiba mais sobre o VS Code Day 2024](https://code.visualstudio.com/blogs/2024/04/15/vscode-day)
 - [Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - VS for Web [vscode.dev/](https://vscode.dev/)
 - [Emmet](https://code.visualstudio.com/docs/editor/emmet)
 - [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/VSCode)
+- [VS Code Themes](https://vscodethemes.com/)
+- [Saiba mais sobre o VS Code Day 2024](https://code.visualstudio.com/blogs/2024/04/15/vscode-day)
 
 ## Repositórios Recomendados
 - [Repositório Front-end Developers](https://github.com/anamariasilva/front-end)
