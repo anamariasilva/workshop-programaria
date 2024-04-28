@@ -7,12 +7,13 @@ Workshop PrograMaria para a comunidade Entre PrograMarias com o tema "Introduç�
 ## Pré-encontro: 
 Visual Studio Code instalado (https://code.visualstudio.com/Download)
 
-## Programação: 
+## Programação
 
-## Repositório GitHub: 
+## Repositório GitHub
 
-## Referências: 
+## Referências
 
+## Contatos
 ### Ana Maria | Embaixadora PrograMaria
 
 [www.anamaria.dev.br](https://www.anamaria.dev.br/)
