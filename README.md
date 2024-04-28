@@ -19,28 +19,33 @@ Visual Studio Code instalado (https://code.visualstudio.com/Download)
 Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.com/anamariasilva/workshop-programaria) e utilize as hashtags #programaria e #workshop-programaria em seu repositório.
 
 ## Exercício prático
+- Configure o idioma de sua preferência (instale uma extensão)
 - Crie a estrutura do projeto web
-- Configure modo claro ou escuro de acordo com sua preferência
 - Instale um tema que altere o esquema de cores
+- Configure modo claro ou escuro
 - Instale uma extensão de formatação
 - Instale uma extensão para estilizar ícones da estrutura do projeto
 - Instale uma extensão que auxilie o uso da linguagem escolhida para o seu projeto (HTML, CSS, JavaScript, PHP, Python...)
 - Refaça o código do projeto utilizando emmet
 - salve as configurações do seu projeto
 
-:rocket: :rocket: :rocket
+:rocket: :rocket: :rocket:
 - Conecte o Git
 - Disponibilize no GitHub
 
 ## Referências
+- [Visual Studio Code Docs](https://code.visualstudio.com/docs)
 - [Keyboard shortcuts for Windows em PDF](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - VS for Web [vscode.dev/](https://vscode.dev/)
 - [Emmet](https://code.visualstudio.com/docs/editor/emmet)
 - [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/VSCode)
 - [VS Code Themes](https://vscodethemes.com/)
 - [Saiba mais sobre o VS Code Day 2024](https://code.visualstudio.com/blogs/2024/04/15/vscode-day)
+- [Repositório vscode no GitHub](https://github.com/microsoft/vscode)
+- [Visual Studio Code no YouTube](https://www.youtube.com/channel/UCs5Y5_7XK8HLDX0SLNwkd3w)
 
 ## Extensões utilizadas
+- [Portuguese (Brazil) Language Pack for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=MS-CEINTL.vscode-language-pack-pt-BR)
 - [GitHub Theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
