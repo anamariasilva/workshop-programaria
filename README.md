@@ -10,16 +10,29 @@ Visual Studio Code instalado (https://code.visualstudio.com/Download)
 ## Programação
 - Apresentação
 - Introdução ao VS Code
-- Extensões, Atalhos e customização da ferramenta
-- Exercício prático
+- Extensões, atalhos e customização do VS Code
 - Repositório GitHub
+- Exercício prático
 - Referências
 
 ## Repositório GitHub
 Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.com/anamariasilva/workshop-programaria) e utilize as hashtags #programaria e #workshop-programaria em seu repositório.
 
+## Exercício prático
+- Crie a estrutura do projeto web
+- Configure modo claro ou escuro nas preferências
+- Instale um tema de sua preferência que altere o esquema de cores
+- Instale uma extensão de formatação
+- Instale uma extensão para estilizar ícones da estrutura do projeto
+- Instale uma extensão que auxilie o uso da linguagem escolhida para o seu projeto (HTML, CSS, JavaScript, PHP, Python...)
+Bônus:
+- Conecte o Git
+- Disponibilize no GitHub
+
 ## Referências
 - [Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+- VS for Web [vscode.dev/](https://vscode.dev/)
+- [Emmet](https://code.visualstudio.com/docs/editor/emmet)
 
 ## Contatos
 ### Ana Maria | @ana.tech.dev
