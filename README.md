@@ -25,7 +25,7 @@ Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.c
 - Instale uma extensão de formatação
 - Instale uma extensão para estilizar ícones da estrutura do projeto
 - Instale uma extensão que auxilie o uso da linguagem escolhida para o seu projeto (HTML, CSS, JavaScript, PHP, Python...)
-Bônus:
+- Crie um atalho personalizado
 - Conecte o Git
 - Disponibilize no GitHub
 
@@ -34,10 +34,11 @@ Bônus:
 - [Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 - VS for Web [vscode.dev/](https://vscode.dev/)
 - [Emmet](https://code.visualstudio.com/docs/editor/emmet)
+- [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/VSCode)
 
 ## Contatos
-### Ana Maria | @ana.tech.dev
-#### Criadora de conteúdo em @ana.tech.dev | Embaixadora PrograMaria
+### Ana Maria | www.anamaria.dev.br
+#### Criadora de conteúdo @ana.tech.dev | Embaixadora PrograMaria
 
 <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
 
