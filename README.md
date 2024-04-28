@@ -36,16 +36,15 @@ Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.c
 - [Emmet](https://code.visualstudio.com/docs/editor/emmet)
 - [Extensions for Visual Studio Code](https://marketplace.visualstudio.com/VSCode)
 
-## Salve nos Favorites
+## Repositórios Recomendados
 - [Repositório Front-end Developers](https://github.com/anamariasilva/front-end)
 - [Repositório Mulheres na Tecnologia](https://github.com/anatechdev/mulheres-na-tecnologia)
 - [Lista Repositório Recomendados](https://github.com/stars/anamariasilva/lists/reposit%C3%B3rios-recomendados)
 
 ## Contatos
-### Ana Maria | www.anamaria.dev.br
-#### Criadora de conteúdo @ana.tech.dev | Embaixadora PrograMaria
+### Ana Maria | Criadora de conteúdo @ana.tech.dev e Embaixadora PrograMaria
 
-<a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
+<a href="https://www.anamariasilva.com.br"><img src="https://img.shields.io/static/v1?label=site&message=www.anamariasilva.com.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=portfolio&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
 
 <a href="https://github.com/anamariasilva"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue"/></a>
 
