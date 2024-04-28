@@ -19,9 +19,11 @@ Visual Studio Code instalado (https://code.visualstudio.com/Download)
 Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.com/anamariasilva/workshop-programaria) e utilize as hashtags #programaria e #workshop-programaria em seu repositório.
 
 ## Referências
+- [Keyboard shortcuts for Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
 
 ## Contatos
-### Ana Maria | Embaixadora PrograMaria
+### Ana Maria | @ana.tech.dev
+#### Criadora de conteúdo em @ana.tech.dev | Embaixadora PrograMaria
 
 <a href="https://www.anamaria.dev.br"><img src="https://img.shields.io/static/v1?label=site&message=www.anamaria.dev.br&logo=website&logoColor=white&color=blue&style=plastic"/></a> 
 
