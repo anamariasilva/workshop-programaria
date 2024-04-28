@@ -1,4 +1,4 @@
-![capa repositório workshop PrograMaria Entre PrograMarias](https://www.anamaria.dev.br/workshop-programaria/entre-programarias.png)
+![capa repositório workshop PrograMaria Entre PrograMarias](https://www.anamaria.dev.br/workshop-programaria/images/entre-programarias.png)
 
 # Workshop PrograMaria
 
@@ -13,8 +13,9 @@ Visual Studio Code instalado (https://code.visualstudio.com/Download)
 
 ## Referências: 
 
-## Ana Maria | Embaixadora PrograMaria
+### Ana Maria | Embaixadora PrograMaria
+![logotipo @ana.tech.dev](https://www.anamaria.dev.br/workshop-programaria/images/logotipo.png)
+
 [www.anamaria.dev.br](https://www.anamaria.dev.br/)
 
-[https://github.com/anamariasilva](https://img.shields.io/badge/GitHub-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black) [https://www.instagram.com/ana.tech.dev/](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue) [https://www.linkedin.com/in/anamariasilva](https://img.shields.io/badge/LinkedIn-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue)
-
+<a href="https://github.com/anamariasilva"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23E4405F.svg?style=plastic&logo=GitHub&logoColor=white&color=black"/></a> <a href="https://www.instagram.com/ana.tech.dev/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white&color=blue"/></a> <a href="https://www.linkedin.com/in/anamariasilva"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%23E4405F.svg?style=plastic&logo=linkedin&logoColor=white&color=blue"/></a>
