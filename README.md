@@ -24,7 +24,7 @@ Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.c
 - Configure o idioma de sua preferência (instale uma extensão)
 - Crie a estrutura do projeto web
 - Instale um tema que altere o esquema de cores
-- Configure modo claro ou escuro
+- Configure dark mode ou light mode
 - Instale uma extensão de formatação
 - Instale uma extensão para estilizar ícones da estrutura do projeto
 - Instale uma extensão que auxilie o uso da linguagem escolhida para o seu projeto (HTML, CSS, JavaScript, PHP, Python...)
@@ -35,6 +35,12 @@ Favorite o repo [github.com/anamariasilva/workshop-programaria](https://github.c
 - Conecte o Git
 - Disponibilize no GitHub
 - Utilize a versão web do VS Code
+
+## Material Complementar (Microsoft Learn)
+- [Instalar e configurar o Visual Studio Code](https://learn.microsoft.com/pt-br/training/modules/install-configure-visual-studio-code/)
+- [Introdução ao GitHub no Visual Studio Code](https://learn.microsoft.com/pt-br/training/modules/introduction-to-github-visual-studio-code/)
+- [Introdução ao desenvolvimento para a Web usando Visual Studio Code](https://learn.microsoft.com/pt-br/training/modules/get-started-with-web-development/)
+
 
 ## Referências
 - [Visual Studio Code Docs](https://code.visualstudio.com/docs)
